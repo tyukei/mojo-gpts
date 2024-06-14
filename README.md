@@ -30,6 +30,9 @@ https://huggingface.co/docs/transformers/en/model_doc/gpt2
 mojo gpt2.mojo
 ```
 
+![image](https://github.com/tyukei/mojo-gpts/assets/70129567/5042e903-a740-4410-af02-53356941d2a9)
+
+
 ## gpt3.5
 I use openai's gpt3.5 model.
 You need to set api key in `.env` file.
@@ -43,3 +46,6 @@ https://platform.openai.com/api-keys
 ```
 mojo gpt3.5.mojo
 ```
+
+![image](https://github.com/tyukei/mojo-gpts/assets/70129567/446657b7-5fd8-40e2-a232-bd9226d8ffce)
+
