@@ -49,3 +49,17 @@ mojo gpt3.5.mojo
 
 ![image](https://github.com/tyukei/mojo-gpts/assets/70129567/446657b7-5fd8-40e2-a232-bd9226d8ffce)
 
+# Appendix
+## python vs mojo
+
+You can also run the same model with python.
+```
+python gpt2.py
+```
+
+```
+python gpt35.py
+```
+
+You can see mojo is a little faster than python.
+But the difference is not so big.
