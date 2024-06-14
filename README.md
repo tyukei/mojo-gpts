@@ -1,5 +1,5 @@
 # mojo-gpts
-
+This is a simple example of using mojo to serve gpt2 and gpt3.5 models.
 
 ## Setup
 
