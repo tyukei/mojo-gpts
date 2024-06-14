@@ -57,9 +57,13 @@ You can also run the same model with python.
 python gpt2.py
 ```
 
+![image](https://github.com/tyukei/mojo-gpts/assets/70129567/45e2fba4-0e71-4532-9299-4cdee5f23b5b)
+
 ```
 python gpt35.py
 ```
+
+![image](https://github.com/tyukei/mojo-gpts/assets/70129567/48468f6c-9f43-4121-878c-59799da9c580)
 
 You can see mojo is a little faster than python.
 But the difference is not so big.
