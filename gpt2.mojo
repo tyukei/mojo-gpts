@@ -38,7 +38,7 @@ fn chat_response() -> None:
         print("AI:", response)
         
         var end = time_function.time()
-        var seconds = (end - start)
+        var seconds = builtins.round((end - start),2)
         print("Chatbot response took", seconds, "seconds to run")
     except e:
         print("An error occurred:", e)

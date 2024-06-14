@@ -1,8 +1,5 @@
 from python import Python
-import math
 
-fn round_up_to_second_decimal(value: Float16) -> Float16:
-    return math.ceil(value * 100) / 100
 
 fn chat_response() -> None:
     try:
@@ -28,7 +25,7 @@ fn chat_response() -> None:
         )
         print(completion.choices[0].message.content)
         var end = time_function.time()
-        var seconds = (end - start)
+        var seconds = builtins.round((end - start),2)
         print("Chatbot response took", seconds, "seconds to run")
     except e:
         print("An error occurred:", e)
