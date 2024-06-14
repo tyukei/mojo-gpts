@@ -33,6 +33,10 @@ mojo gpt2.mojo
 ## gpt3.5
 I use openai's gpt3.5 model.
 You need to set api key in `.env` file.
+```
+copy .env.copy .env
+echo "OPENAI_API = 'your api key'" >> .env
+```
 https://platform.openai.com/api-keys
 
 ## usage
