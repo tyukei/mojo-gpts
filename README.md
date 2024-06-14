@@ -44,7 +44,7 @@ https://platform.openai.com/api-keys
 
 ## usage
 ```
-mojo gpt3.5.mojo
+mojo gpt35.mojo
 ```
 
 ![image](https://github.com/tyukei/mojo-gpts/assets/70129567/446657b7-5fd8-40e2-a232-bd9226d8ffce)
