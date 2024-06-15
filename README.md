@@ -1,6 +1,9 @@
 # mojo-gpts
 This is a simple example of using mojo to serve gpt2 and gpt3.5 models.
 
+You can also read tech article from [here](https://zenn.dev/kei_ninja/articles/ad7e1af87a26a2)
+
+
 ## Setup
 
 1. Install dependencies
